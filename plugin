@@ -1,0 +1,5 @@
+npm install hexo-renderer-pug hexo-renderer-stylus --save
+npm install --save hexo-tag-aplayer
+npm install hexo-wordcount --save
+npm un hexo-renderer-marked --save
+npm i hexo-renderer-markdown-it-plus --save
