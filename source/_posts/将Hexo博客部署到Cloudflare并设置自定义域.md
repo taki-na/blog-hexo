@@ -2,7 +2,6 @@
 title: 将Hexo博客部署到Cloudflare并设置自定义域
 data: 
 updata: 
-top_img: http://img.xjh.me/random_img.php?ctype=acg&return=302
 cover: http://img.xjh.me/random_img.php?ctype=acg&return=302
 categories:
 - 教程

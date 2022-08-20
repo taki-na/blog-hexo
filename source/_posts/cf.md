@@ -10,7 +10,6 @@ tags: # 标签
 - Cloudflare
 - cf
 description:
-top_img: https://s2.loli.net/2022/07/23/fKZ8FirHowlSL6U.png
 cover: https://s2.loli.net/2022/07/23/fKZ8FirHowlSL6U.png
 copyright: false
 toc:
