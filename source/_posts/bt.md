@@ -2,9 +2,10 @@
 title: 宝塔面板跳过强制绑定账户
 date: 2022-08-20 01:51:22
 author: 
-cover: http://img.xjh.me/random_img.php?ctype=acg&return=302
+cover: /img/74431885.webp
 categories: # 分类
 - 教程
+tags:
 - 宝塔面板
 copyright: false
 ---
