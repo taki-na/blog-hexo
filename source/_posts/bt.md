@@ -14,8 +14,8 @@ copyright: false
 {% endnote %}
 ## 一、安装原版宝塔
 首先安装宝塔面板的官方版本：bt.cn
-## 二、安装相关工具
-**wget工具**
+## 二、安装依赖
+**wget**
 Ubuntu\Debian
 ```powershell
 apt-get install wget
@@ -24,7 +24,7 @@ CentOS
 ```powershell
 yum install -y wget
 ```
-**解压工具**
+**unzip**
 Ubuntu\Debian
 ```powershell
 apt-get install unzip

@@ -114,3 +114,8 @@ search:
   path: search.json
   field: post
   content: true
+
+sitemap: #站点地图
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
