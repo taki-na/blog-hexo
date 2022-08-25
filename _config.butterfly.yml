@@ -77,18 +77,18 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/91566274_p0.png
+favicon: /img/81214117_p1.webp
 
 # Avatar (頭像)
 avatar:
-  img: /img/91566274_p0.png
+  img: /img/81214117_p1.webp
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: http://img.xjh.me/random_img.php?type=bg&ctype=acg&return=302
+index_img: rgb(255,255,255,0)
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: /img/bg.webp
@@ -503,7 +503,7 @@ tag_ui: # 留空或 index
 background: url(http://img.xjh.me/random_img.php?type=bg&ctype=acg&return=302)
 
 # Footer Background
-footer_bg: true
+footer_bg: rgb(255,255,255,0)
 
 # the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
 rightside-bottom:
@@ -631,7 +631,7 @@ aside:
   hide: false
   button: true
   mobile: true # display on mobile
-  position: right # left or right
+  position: left # left or right
   display:
     archive: true
     tag: true
@@ -660,7 +660,7 @@ aside:
   card_tags:
     enable: true
     limit: 40 # if set 0 will show all
-    color: false
+    color: true
     sort_order: # Don't modify the setting unless you know how it works
   card_archives:
     enable: true
