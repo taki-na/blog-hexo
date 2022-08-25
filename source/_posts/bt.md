@@ -1,21 +1,21 @@
 ---
 title: 宝塔面板跳过强制绑定账户
 date: 2022-08-20 01:51:22
-author: 
+abbrlink: af8ae8ee
 cover: /img/74431885.webp
-categories: # 分类
-- 教程
+categories:
+  - 教程
 tags:
-- 宝塔面板
+  - 宝塔面板
 copyright: false
 ---
 
 {% note blue no-icon %}
 **转载增改自https://www.xiaoyao01.com/bsma780tgqzadzh/**
 {% endnote %}
-## 一、安装原版宝塔
+## 安装原版宝塔
 首先安装宝塔面板的官方版本：bt.cn
-## 二、安装依赖
+## 安装依赖
 **wget**
 Ubuntu\Debian
 ```powershell
@@ -34,7 +34,7 @@ CentOS
 ```powershell
 yum install -y unzip
 ```
-## 三、安装更新
+## 安装更新
 在root目录下安装
 7.4.3版本，此版本不需要账户登录
 ```powershell

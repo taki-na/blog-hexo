@@ -1,11 +1,12 @@
 ---
 title: Windowns刷cloudflare warp+流量
-date: 2022-08-15 01:26:04
 cover: /img/99230581_p0.jpg
 categories: 教程
-tags: 
-- cloudflare
-- cloudflare warp
+tags:
+  - cloudflare
+  - cloudflare warp
+abbrlink: ff2da15c
+date: 2022-08-15 01:26:04
 ---
 
 ## 准备工作
