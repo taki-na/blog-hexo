@@ -1,8 +1,7 @@
 ---
 aplayer: true
-title: music
+title: 音乐
 date: 2022-07-22 21:53:04
-updata:
 type: "music"
 ---
 
