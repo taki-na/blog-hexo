@@ -38,7 +38,7 @@ copy:
 social:
   fab fa-github: https://github.com/wutao-xuemei || Github
   fas fa-envelope: mailto:laozheng@duck.com || Email
-  fab fa-telegram: t.me/lao_zheng_bot || Telegram
+  fab fa-telegram: https://t.me/lao_zheng_bot || Telegram
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系統

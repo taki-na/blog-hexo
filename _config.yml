@@ -115,7 +115,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repository: git@github.com:wutao-xuemei/wutao-xuemei.github.io.git
+  repository: git@github.com:taki-na/taki-na.github.io.git
   branch: main
 
 aplayer:
