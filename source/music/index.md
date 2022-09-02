@@ -1,6 +1,6 @@
 ---
 aplayer: true
-title: 音乐
+title: 我喜欢的音乐
 date: 2022-07-22 21:53:04
 type: "music"
 ---

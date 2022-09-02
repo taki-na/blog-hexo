@@ -5,4 +5,4 @@ type: "about"
 ---
 ## 联系方式
 <i class="fa-solid fa-envelope fa-lg"></i> **laozheng@duck.com**
-<i class="fa-brands fa-telegram fa-lg"></i> **t.me/lao_zheng_bot**
+<i class="fa-brands fa-telegram fa-lg"></i> **t.me/ta_ki_na**
