@@ -36,7 +36,7 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  fab fa-github: https://github.com/wutao-xuemei || Github
+  fab fa-github: https://github.com/taki-na || Github
   fas fa-envelope: mailto:laozheng@duck.com || Email
   fab fa-telegram: https://t.me/ta_ki_na || Telegram
 
