@@ -6,7 +6,7 @@ abbrlink: 116274935
 date: 2022-09-27 23:55:38
 cover: /img/freenom_bg.webp
 ---
->转载编辑自 https://github.com/luolongfei/freenom/wiki/%E7%9B%B4%E6%8E%A5%E6%8B%89%E5%8F%96%E6%BA%90%E7%A0%81%E9%83%A8%E7%BD%B2
+>编辑自 https://github.com/luolongfei/freenom/wiki/%E7%9B%B4%E6%8E%A5%E6%8B%89%E5%8F%96%E6%BA%90%E7%A0%81%E9%83%A8%E7%BD%B2
 https://github.com/luolongfei/freenom/wiki/Telegram-Bot
 仓库地址 https://github.com/luolongfei/freenom/
 
