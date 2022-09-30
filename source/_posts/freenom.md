@@ -83,3 +83,8 @@ systemctl restart crond
 cd /data/wwwroot/freenom/ && php run
 ```
 不出意外的话，你将收到一封关于域名情况的消息。
+## 更新脚本
+cd 到安装目录直接拉取代码
+```powershell
+cd /data/wwwroot/freenom && git clone https://github.com/luolongfei/freenom.git ./
+```
