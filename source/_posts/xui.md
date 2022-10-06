@@ -8,11 +8,12 @@ categories: 教程
 tags: 
   - x-ui
 ---
-## 准备
+>注意，本行为可能违反 [cloudflare 自助订阅协议](https://www.cloudflare.com/terms/) 第 2.8 节，请酌情使用，对于产生的后果本站不负任何责任
+# 准备
 - VPS 一台
 - 域名一个
 - Cloudflare 账号一个
-### 安装 x-ui
+## 安装 x-ui
 参考官方文档 https://github.com/vaxilu/x-ui
 ### 解析域名
 进入 [Cloudflare](https://dash.cloudflare.com)，选择你的域名 -> DNS -> 添加记录
@@ -40,6 +41,6 @@ cf 支持的回源端口：
 8443
 ```
 >2022.10.1更新：cloudflare 现已支持自定义回源端口
-
 ![](/img/xui2.webp)
 `查看 -> 复制链接` 导出节点
+## cloudflare IP 优选
