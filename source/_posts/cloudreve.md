@@ -4,7 +4,7 @@ categories: 教程
 tags: cloudreve
 abbrlink: 2241284019
 date: 2022-10-02 04:27:17
-cover:
+cover: /img/cloudreve_bg.webp
 ---
 # 搭建网站
 新建网站，创建 mysql 数据库，php 设为静态，部署 ssl 证书
