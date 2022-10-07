@@ -36,9 +36,60 @@ Name = 数据库名称
 # 设置进程守护
 进入软件商店安装`进程守护管理器`并添加守护进程，名称随意（只支持英文），启动用户选`www`，运行目录填`/cloudreve/`，启动命令填`/cloudreve/cloudreve`
 # 反代
-
+找到第一步添加的网站 点击设置 找到反向代理 添加反向代理。名字随意 目标url填`http://127.0.0.1:5212`，其他设置默认。
 # 配置 Aria2
+在安全中放行`6800`端口
+## 安装 Aria2
+安装 Aria2 管理脚本
+项目地址：https://github.com/P3TERX/aria2.sh
+```powershell
+#请以root用户运行
+wget -N git.io/aria2.sh && chmod +x aria2.sh
+```
+运行脚本
+```powershell
+./aria2.sh
+```
+运行后：
+```
+[root@www ~]# ./aria2.sh
 
+ Aria2 一键安装管理脚本 增强版 [v2.7.0] by P3TERX.COM
+ 
+  0. 升级脚本
+ ———————————————————————
+  1. 安装 Aria2
+  2. 更新 Aria2
+  3. 卸载 Aria2
+ ———————————————————————
+  4. 启动 Aria2
+  5. 停止 Aria2
+  6. 重启 Aria2
+ ———————————————————————
+  7. 修改 配置
+  8. 查看 配置
+  9. 查看 日志
+ 10. 清空 日志
+ ———————————————————————
+ 11. 手动更新 BT-Tracker
+ 12. 自动更新 BT-Tracker
+ ———————————————————————
+```
+输入 1 安装 Aria2，安装完成后显示配置信息：
+```
+Aria2 简单配置信息：
+
+ IPv4 地址      : 124.70.**.**
+ IPv6 地址      : ********（失败则不需要）
+ RPC 端口       : 6800
+ RPC 密钥       : 7d0bb173a2a101******
+ 下载目录       : /root/downloads
+ AriaNg 链接    : http://ariang.js.org/****
+```
+## 对接 cloudreve
+打开管理面板-参数设置-离线下载，把配置依次填入，具体看图
+![](/img/cloudreve.png)
+配置完成后先保存，再测试连接，测试成功即可用。
 >参考文档 https://docs.cloudreve.org/
 https://cloud.tencent.com/developer/article/1935056
 https://cloud.tencent.com/developer/article/1937575
