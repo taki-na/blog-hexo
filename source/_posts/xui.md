@@ -22,6 +22,7 @@ tags:
 ## 申请证书
 可以使用脚本或宝塔面板申请证书，这里使用的是 cf 的免费证书
 >提示：cloudflare 颁发的免费证书只有 cloudflare 信任
+
 进入 [Cloudflare](https://dash.cloudflare.com)，选择你的域名 -> SSL -> 源服务器 -> 创建证书
 ![](/img/xui1.webp)
 复制源证书和私钥备用
