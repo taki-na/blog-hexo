@@ -62,3 +62,5 @@ Cloudflare 支持的 HTTPS 端口：
 # cloudflare IP 优选
 github 仓库及使用方法：https://github.com/XIU2/CloudflareSpeedTest
 把代理软件中的地址更改为优选的 IP
+>参考文档：https://coderfan.net/how-to-use-x-ui-pannel-to-set-up-proxies-for-bypassing-gfw.html
+https://hostloc.com/thread-717619-1-1.html
