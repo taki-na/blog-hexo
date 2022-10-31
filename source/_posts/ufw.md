@@ -7,7 +7,7 @@ tags:
   - 安全
 abbrlink: 1354586903
 date: 2022-10-28 22:20:53
-cover: /img/
+cover: /img/ufw_bg.webp
 ---
 # 安装 UFW
 Centos
