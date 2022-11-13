@@ -9,6 +9,9 @@ abbrlink: 1354586903
 date: 2022-10-28 22:20:53
 cover: /img/ufw_bg.webp
 ---
+>转载自
+https://p3terx.com/archives/installing-and-configuring-ufw-in-debian.html
+
 # 安装 UFW
 Centos
 ```powershell
@@ -96,5 +99,3 @@ reload                        #重启防火墙
 reset                         #重置防火墙
 version                       #显示版本信息
 ```
->转载自
-https://p3terx.com/archives/installing-and-configuring-ufw-in-debian.html
