@@ -58,7 +58,7 @@ Cloudflare 支持的 HTTPS 端口：
 >注意：Cloudflare 免费账户是对等回源，即 8443 回 8443
 
 ![](/img/xui2.webp)
-`查看 -> 复制链接` 导出节点
+`查看 -> 复制链接` 导出节点，记得放行相应端口
 # cloudflare IP 优选
 github 仓库及使用方法：https://github.com/XIU2/CloudflareSpeedTest
 把代理软件中的地址更改为优选的 IP
