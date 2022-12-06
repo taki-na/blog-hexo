@@ -13,7 +13,7 @@ timezone: 'Asia/Hong_Kong'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://blog.laozheng.cf
+url: https://blog.laozheng.icu
 root: /
 permalink: posts/:abbrlink/
 
@@ -41,6 +41,7 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+  - 'robots.txt'
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -128,7 +129,6 @@ search:
   content: true
 
 sitemap: #站点地图
-  path: sitemap.xml
-  rel: false
-  tags: true
-  categories: true
+  path:
+    - sitemap.xml
+    - sitemap.txt

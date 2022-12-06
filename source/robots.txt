@@ -1,0 +1,10 @@
+User-agent: *
+
+Disallow: /img/
+Disallow: /css/
+Disallow: /js/
+Disallow: /photos/
+Disallow: /*.css
+Disallow: /*.js
+
+Sitemap: https://blog.laozheng.icu/sitemap.xml
