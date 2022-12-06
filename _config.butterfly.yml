@@ -421,7 +421,7 @@ baidu_analytics:
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
-google_analytics:
+google_analytics: G-0K6K386PLL
 
 # CNZZ Analytics
 # https://www.umeng.com/
@@ -429,7 +429,7 @@ cnzz_analytics:
 
 # Cloudflare Analytics
 # https://www.cloudflare.com/zh-tw/web-analytics/
-cloudflare_analytics: b3430d59ffa54324ac9fc5b375014017
+cloudflare_analytics: 3fce29a638ba4966bc869413569c262b
 
 # Microsoft Clarity
 # https://clarity.microsoft.com/
@@ -617,8 +617,8 @@ subtitle:
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
-    - 坚持躺平，拒绝内卷
-    - 美好的一天从摸鱼开始
+    - 坚持躺平，拒绝内卷。
+    - 美好的一天从摸鱼开始。
     - 好累啊，今天也摸鱼吧。
 
 # Loading Animation (加載動畫)

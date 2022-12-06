@@ -10,7 +10,7 @@ type: "music"
 ---
 
 {% note pink 'fas fa-music' %}
-纸上魔法使OST
+《纸上魔法使》OST
 {% endnote %}
 
 {% meting "38592034" "netease" "album" "autoplay" "mutex:true" "listmaxheight:340px" "preload:none" "theme:#ad7a86"%}
